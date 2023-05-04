@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Morii',
+          'RA App',
           style: TextStyle(
             color: Colors.white,
             fontSize: 25,
